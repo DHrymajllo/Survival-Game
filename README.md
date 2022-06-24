@@ -1,2 +1,2 @@
 # Survival-B-D
-Zaliczenie przedmiotu
+https://dhrymajllo.github.io/Survival-B-D/
