@@ -1,4 +1,4 @@
 # Survival-B-D
-Link do gry w przeglądarce: https://dhrymajllo.github.io/Survival-B-D/
+Browser game link: https://dhrymajllo.github.io/Survival-B-D/
 
-Link do projektu w Unity: https://mega.nz/file/5cxFxTLb#jw3yBut86LorpUzqIlSJcSVFxgoHl02fZYwuSpFfu2Y
+Link to the project in Unity: https://mega.nz/file/5cxFxTLb#jw3yBut86LorpUzqIlSJcSVFxgoHl02fZYwuSpFfu2Y
